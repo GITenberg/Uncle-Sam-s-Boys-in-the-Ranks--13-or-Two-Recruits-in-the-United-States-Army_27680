@@ -1,0 +1,28 @@
+_repo: Uncle-Sam-s-Boys-in-the-Ranks--13-or-Two-Recruits-in-the-United-States-Army_27680
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27680-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army -- Juvenile fiction'
+- !lcc 'PZ'
+title: Uncle Sam's Boys in the Ranks; or, Two Recruits in the United States Army
+url: http://www.gutenberg.org/ebooks/27680
